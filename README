@@ -1,0 +1,12 @@
+Ashar Yahya aay2120
+Nour Almusa na2935
+Group 4 Project
+Section 2
+
+Top10 Notebook Description: Using the 311_Service_Requests_2020 file, 
+we created a dataframeto look at all incidents in our zip code (10027).
+We found the top 10 complaint types (our output is a Pandas Series).
+
+Parking Notebook Description: Using the same 311_Service_Requests_2020 file,
+we looked for illegal parking notices in our zip code (10027). We calculated
+the percentage of total illegal parking notices out of all parking violations and compared the data to Columbia University's zip code.
